@@ -1,0 +1,14 @@
+{
+    "artistName": "Jack Johnson",
+    "trackName": "The Fifth Witness",
+    "resultsSchema": {
+        "wrapperType": "#string",
+        "artistType": "#string",
+        "artistName": "#string",
+        "artistLinkUrl": "#string",
+        "artistId": "#number",
+        "amgArtistId": "#number",
+        "primaryGenreName": "Rock",
+        "primaryGenreId": "#number"
+    }
+}

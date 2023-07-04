@@ -1,0 +1,6 @@
+{
+    "endpoint": {
+        "search": "search/",
+        "lookup": "lookup/"
+    }
+}

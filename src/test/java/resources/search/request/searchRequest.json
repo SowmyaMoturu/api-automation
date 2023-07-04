@@ -1,0 +1,10 @@
+{
+    "term":"Yelp",
+    "country":"ca",
+    "compositeTerm": "Jack+Johnson",
+    "media":"audiobook",
+    "mediaTerm":"Star Wars",
+    "entityTerm":"Jennifer",
+    "entityMedia":"movie",
+    "entity":"movieArtist"
+}   
