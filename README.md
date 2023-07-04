@@ -24,4 +24,4 @@ $ mvn clean test -Dkarate.options="classpath:features/lookup/lookup.feature"
 * See test report from `target/cucumber-html-reports/overview-features.html` for the Cucumber report
 
 ## Perforamance tests
- * Need to export performance test option using karate
+ * Need to explore performance test option using karate
